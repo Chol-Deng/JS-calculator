@@ -124,6 +124,6 @@ function calculator(input) {
   }
 }
 
-// Examples of usage:
+// run the calculator function
 console.log(calculator("V + V"));
 
