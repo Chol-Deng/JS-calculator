@@ -126,4 +126,6 @@ function calculator(input) {
 
 // run the calculator function
 console.log(calculator("V + V"));
+console.log(calculator("V - V"));
+console.log(calculator("V * V"));
 
